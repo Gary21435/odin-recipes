@@ -1,1 +1,2 @@
-*write a brief intro and the skills you demonstrated after completing the project*
+write a brief intro and the skills you demonstrated after completing the project
+
